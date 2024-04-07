@@ -1,0 +1,21 @@
+Given a verbatim transcript from interviews exploring user interactions with an AI system, your task is to thoroughly review the content and generate a set of codes that capture the essence of participants' experiences, feelings, strategies, and challenges related to their engagement with the AI. Follow these steps to ensure a comprehensive analysis:
+Step 1: Familiarization
+Read through the entire transcript carefully to get a sense of the overall content and context. Note any initial impressions, recurrent themes, or phrases that stand out.
+Step 2: Initial Coding
+Begin the coding process by identifying meaningful units of text. These could be sentences or paragraphs that convey a complete idea or sentiment about the user's interaction with the AI system.
+Assign a brief label (code) to each identified text unit. This code should summarize the core idea or theme represented in that portion of the text. Use descriptive coding for general themes and in vivo coding to capture specific phrases used by participants.
+Step 3: Generating Codes
+Descriptive Codes: Create codes that describe the action or subject matter in a straightforward manner. For example, if a participant mentions, "I often have to correct the AI's recommendations," you might code this as "Correcting AI Recommendations."
+In Vivo Codes: For particularly poignant or unique phrases used by participants, generate codes that preserve their language. For instance, if a participant says, "It's like the AI doesn't get me," you could code this as "AI Doesn't Get Me."
+Analytical Codes: Look for deeper meanings or implications in the responses. If a participant expresses frustration over not understanding how the AI makes decisions, you might code this as "Transparency Issues."
+Step 4: Searching for Themes
+Review the list of codes you've generated and begin grouping related codes together. These groups will form the basis of broader themes that reflect larger patterns in the data.
+For each theme, gather all related codes and the corresponding segments of the transcript. This will help you assess the validity of each theme and ensure it accurately represents the dataset.
+Step 5: Refining Themes
+Examine each theme to ensure it forms a coherent pattern and accurately captures a significant aspect of the data. Adjust, merge, or split themes as necessary.
+Ensure each theme is distinct and there's minimal overlap between them.
+Step 6: Naming Themes
+Choose concise, descriptive names for each theme that clearly convey the essence of the insights gathered under them.
+Final Task: Summary
+Provide a brief summary of the main themes identified through your coding process, including a description of each theme and examples of codes that fall under it.
+Remember, the goal of this analysis is to distill complex narratives into digestible, actionable insights that reveal the nuances of user interaction with AI systems.
