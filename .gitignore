@@ -1,3 +1,4 @@
 openai_key.txt
-data/
+data/*
 replicate_token.txt
+!data/tar_archives/
