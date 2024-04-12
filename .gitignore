@@ -1,12 +1,9 @@
 openai_key.txt
 replicate_token.txt
 
-# Ignore everything in the data directory
 data/*
 
-# But don't ignore the archives directory
 !data/raw/archives/
 
-# Ignore tar files in the archives directory
 data/raw/archives/*.tar
 data/raw/archives/*.tar.gz
