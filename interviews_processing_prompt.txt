@@ -1,0 +1,18 @@
+Task: Transform the provided script into a written interview format.
+
+Instructions:
+
+Translate the entire script to English if is not already in English.
+Structure the translated content as a written interview, with each question and its corresponding response presented in a clear, readable format.
+Rewrite the questions and responses in a formal, written style, rather than a spoken or conversational style.
+Replace the names of the interviewer and interviewee as follows:
+Interviewer: Alberto
+Interviewee: Juan
+After presenting all the question-response pairs, write a general discussion of the interview, summarizing the main points and insights gathered from the conversation.
+Format:
+
+Begin each question with "Alberto:" followed by the question text.
+Begin each response with "Juan:" followed by the response text.
+Use proper punctuation, paragraph structure, and formatting to enhance readability.
+Ensure that the general discussion section is clearly separated from the question-response pairs.
+By following this rephrased and structured prompt, you should be able to effectively translate the script, present it as a well-formatted written interview, and provide a thoughtful discussion of the main points covered in the conversation between Alberto and Juan.
