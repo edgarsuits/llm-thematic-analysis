@@ -5,8 +5,8 @@ replicate_token.txt
 data/*
 
 # But don't ignore the archives directory
-!data/archives/
+!data/raw/archives/
 
 # Ignore tar files in the archives directory
-data/archives/*.tar
-data/archives/*.tar.gz
+data/raw/archives/*.tar
+data/raw/archives/*.tar.gz
